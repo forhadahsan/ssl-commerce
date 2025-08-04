@@ -1,3 +1,11 @@
+<p> follow this video and easy way: <a href="https://www.youtube.com/watch?v=ClEii9a6wmE" >Youtube Link</a> </p>
+<p> and github link follow : <a href="https://github.com/sslcommerz/SSLCommerz-Laravel" >github link click</a> </p> 
+<small>
+:::::help link::::
+youtube: https://www.youtube.com/watch?v=ClEii9a6wmE
+github: https://github.com/sslcommerz/SSLCommerz-Laravel
+</small>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
